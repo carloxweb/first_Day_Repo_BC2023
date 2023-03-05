@@ -9,8 +9,8 @@ body {
   position: relative;
   font-family: "Goudy Bookletter 1911", sans-serif;
   font-size: 20px;
-  background-color: #FDF8F5;
-  color: #4F4846;
+  background-color: #8de3f0;
+  color: #9d971d;
 }
 
 h1,
@@ -30,7 +30,7 @@ li {
 
 a {
   text-decoration: none;
-  color: #FDF8F5;
+  color: #880f7c;
 }
 
 header,
@@ -38,20 +38,20 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #266150;
+  background-color: #0ddda2;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #DDAF94;
+  border-bottom: 10px solid #d05a15;
 }
 
 footer {
-  position: absolute;
+  position: fixed;
   margin-top: 0;
   bottom: 0;
   border-bottom: 10px solid #4F4846;
-  color: #FDF8F5;    
+  color: #171615;    
 }
 
 figure {
